@@ -1,0 +1,12 @@
+{
+  "name": "TeachDifferent",
+  "displayName": "TeachDifferent",
+  "expo": {
+    "name": "TeachDifferent",
+    "slug": "TeachDifferent",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
